@@ -1,0 +1,1464 @@
+﻿# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-08-12 09:27-0500\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Console\Templates\default\default.ctp:25
+msgid "Title"
+msgstr "标题"
+
+#: Console\Templates\skel\View\Layouts\default.ctp:24
+#: Console\Templates\skel\View\Layouts\error.ctp:24
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: Console\Templates\skel\View\Layouts\default.ctp:40;50
+#: Console\Templates\skel\View\Layouts\error.ctp:40;50
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: Controller\AdminsController.php:30;62;90
+msgid "Invalid admin"
+msgstr ""
+
+#: Controller\AdminsController.php:44;66
+msgid "The admin has been saved"
+msgstr ""
+
+#: Controller\AdminsController.php:47;69
+msgid "The admin could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\AdminsController.php:93
+msgid "Admin deleted"
+msgstr ""
+
+#: Controller\AdminsController.php:96
+msgid "Admin was not deleted"
+msgstr ""
+
+#: Controller\AgenciesController.php:35;67;95
+msgid "Invalid agency"
+msgstr ""
+
+#: Controller\AgenciesController.php:49
+msgid "The agency has been saved"
+msgstr ""
+
+#: Controller\AgenciesController.php:52
+msgid "The agency could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\AgenciesController.php:98
+msgid "Agency deleted"
+msgstr ""
+
+#: Controller\AgenciesController.php:101
+msgid "Agency was not deleted"
+msgstr ""
+
+#: Controller\AnswersController.php:30;62;90
+msgid "Invalid answer"
+msgstr ""
+
+#: Controller\AnswersController.php:44;66
+msgid "The answer has been saved"
+msgstr ""
+
+#: Controller\AnswersController.php:47;69
+msgid "The answer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\AnswersController.php:93
+msgid "Answer deleted"
+msgstr ""
+
+#: Controller\AnswersController.php:96
+msgid "Answer was not deleted"
+msgstr ""
+
+#: Controller\AttributesController.php:46;81;109
+msgid "Invalid attribute"
+msgstr ""
+
+#: Controller\EntityAttributeValuesController.php:30;65;96
+msgid "Invalid entity attribute value"
+msgstr ""
+
+#: Controller\EntityAttributeValuesController.php:69
+msgid "The entity attribute value has been saved"
+msgstr ""
+
+#: Controller\EntityAttributeValuesController.php:72
+msgid "The entity attribute value could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\EntityAttributeValuesController.php:99
+msgid "Entity attribute value deleted"
+msgstr ""
+
+#: Controller\EntityAttributeValuesController.php:102
+msgid "Entity attribute value was not deleted"
+msgstr ""
+
+#: Controller\ExperimentsController.php:146;160
+msgid "Invalid experiment"
+msgstr ""
+
+#: Controller\ExperimentsController.php:149
+msgid "Experiment deleted"
+msgstr "实验已删除"
+
+#: Controller\ExperimentsController.php:152
+msgid "Experiment was not deleted"
+msgstr ""
+
+#: Controller\GrantsController.php:38;73;104
+msgid "Invalid grant"
+msgstr ""
+
+#: Controller\GrantsController.php:77
+msgid "The grant has been saved"
+msgstr ""
+
+#: Controller\GrantsController.php:80
+msgid "The grant could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\GrantsController.php:107
+msgid "Grant deleted"
+msgstr ""
+
+#: Controller\GrantsController.php:110
+msgid "Grant was not deleted"
+msgstr ""
+
+#: Controller\ParticipantsController.php:68;100;128
+msgid "Invalid participant"
+msgstr ""
+
+#: Controller\ParticipantsController.php:82;104
+msgid "The participant has been saved"
+msgstr ""
+
+#: Controller\ParticipantsController.php:85;107
+msgid "The participant could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\ParticipantsController.php:131
+msgid "Participant deleted"
+msgstr ""
+
+#: Controller\ParticipantsController.php:134
+msgid "Participant was not deleted"
+msgstr ""
+
+#: Controller\PrivilegesController.php:181;220;252
+msgid "Invalid privilege"
+msgstr ""
+
+#: Controller\PrivilegesController.php:224
+msgid "The privilege has been saved"
+msgstr ""
+
+#: Controller\PrivilegesController.php:227
+msgid "The privilege could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\PrivilegesController.php:255
+msgid "Privilege deleted"
+msgstr ""
+
+#: Controller\PrivilegesController.php:259
+msgid "Privilege was not deleted"
+msgstr ""
+
+#: Controller\ProjectsController.php:55
+msgid "The project has been saved"
+msgstr "项目已保存"
+
+#: Controller\ProjectsController.php:116;130
+msgid "Invalid project"
+msgstr ""
+
+#: Controller\ProjectsController.php:119
+msgid "Project deleted"
+msgstr "项目已删除"
+
+#: Controller\ProjectsController.php:21
+msgid "My Projects"
+msgstr "我的项目"
+
+#: Controller\QuestionsController.php:106;172;200
+msgid "Invalid question"
+msgstr ""
+
+#: Controller\QuestionsController.php:176
+msgid "The question has been saved"
+msgstr ""
+
+#: Controller\QuestionsController.php:179
+msgid "The question could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\QuestionsController.php:203
+msgid "Question deleted"
+msgstr ""
+
+#: Controller\QuestionsController.php:206
+msgid "Question was not deleted"
+msgstr ""
+
+#: Controller\ResponsesController.php:102;139;171
+msgid "Invalid response"
+msgstr ""
+
+#: Controller\ResponsesController.php:116;143
+msgid "The response has been saved"
+msgstr ""
+
+#: Controller\ResponsesController.php:119;146
+msgid "The response could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\ResponsesController.php:174
+msgid "Response deleted"
+msgstr ""
+
+#: Controller\ResponsesController.php:177
+msgid "Response was not deleted"
+msgstr ""
+
+#: Controller\RolesController.php:37;69;97
+msgid "Invalid role"
+msgstr ""
+
+#: Controller\RolesController.php:73
+msgid "The role has been saved"
+msgstr ""
+
+#: Controller\RolesController.php:76
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\RolesController.php:100
+msgid "Role deleted"
+msgstr ""
+
+#: Controller\RolesController.php:103
+msgid "Role was not deleted"
+msgstr ""
+
+#: Controller\StimuliController.php:61;93;121
+msgid "Invalid stimulus"
+msgstr ""
+
+#: Controller\StimuliController.php:75;97
+msgid "The stimulus has been saved"
+msgstr ""
+
+#: Controller\StimuliController.php:78;100
+msgid "The stimulus could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\StimuliController.php:124
+msgid "Stimulus deleted"
+msgstr ""
+
+#: Controller\StimuliController.php:127
+msgid "Stimulus was not deleted"
+msgstr ""
+
+#: Controller\StimulusCategoriesController.php:30;62;90
+msgid "Invalid stimulus category"
+msgstr ""
+
+#: Controller\StimulusCategoriesController.php:44;66
+msgid "The stimulus category has been saved"
+msgstr ""
+
+#: Controller\StimulusCategoriesController.php:47;69
+msgid "The stimulus category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\StimulusCategoriesController.php:93
+msgid "Stimulus category deleted"
+msgstr ""
+
+#: Controller\StimulusCategoriesController.php:96
+msgid "Stimulus category was not deleted"
+msgstr ""
+
+#: Controller\StimulusConditionsController.php:30;62;90
+msgid "Invalid stimulus condition"
+msgstr ""
+
+#: Controller\StimulusConditionsController.php:44;66
+msgid "The stimulus condition has been saved"
+msgstr ""
+
+#: Controller\StimulusConditionsController.php:47;69
+msgid "The stimulus condition could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\StimulusConditionsController.php:93
+msgid "Stimulus condition deleted"
+msgstr ""
+
+#: Controller\StimulusConditionsController.php:96
+msgid "Stimulus condition was not deleted"
+msgstr ""
+
+#: Controller\UsersController.php:150;164;249;283;317
+msgid "Invalid user"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:111
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:156
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:197
+msgid "Created Aco node: %s"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:232
+msgid "Deleted Aco node %s"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:242
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:244
+msgid "Add new ACOs for new controllers and actions. Does not remove nodes from the ACO table."
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:246
+msgid "Perform a full sync on the ACO table.Will create new ACOs or missing controllers and actions.Will also remove orphaned entries that no longer have a matching controller/action"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:250
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:255
+msgid "The type of tree to verify"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:261
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:266
+msgid "The type of tree to recover"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:285
+msgid "Tree is valid and strong"
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:302
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: Plugin\AclExtras\Console\Command\AclExtrasShell.php:304
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: View\Agencies\add.ctp:4
+#: View\Agencies\index.ctp:6
+#: View\Answers\add.ctp:4
+#: View\Answers\edit.ctp:4
+#: View\Answers\index.ctp:4;16
+#: View\Answers\view.ctp:4
+#: View\Attributes\add.ctp:4
+#: View\Attributes\index.ctp:22
+#: View\Attributes\view.ctp:38
+#: View\EntityAttributeValues\add.ctp:4
+#: View\EntityAttributeValues\edit.ctp:4
+#: View\EntityAttributeValues\index.ctp:4;19
+#: View\EntityAttributeValues\view.ctp:4
+#: View\Experiments\edit.ctp:74
+#: View\Grants\add.ctp:4
+#: View\Grants\index.ctp:27
+#: View\Participants\add.ctp:4
+#: View\Participants\edit.ctp:4
+#: View\Participants\view.ctp:30
+#: View\Privileges\add.ctp:4
+#: View\Privileges\grant_or_revoke.ctp:4;22
+#: View\Privileges\index.ctp:4;22
+#: View\Privileges\view.ctp:4
+#: View\Questions\edit.ctp:4
+#: View\Questions\view.ctp:4
+#: View\Responses\add.ctp:4
+#: View\Responses\index.ctp:40
+#: View\Responses\view.ctp:4
+#: View\Roles\add.ctp:4
+#: View\Roles\view.ctp:4;52
+#: View\Stimuli\add.ctp:4
+#: View\Stimuli\edit.ctp:4
+#: View\Stimuli\view.ctp:33
+#: View\Users\index.ctp:9
+#: View\Users\view.ctp:47
+msgid "Actions"
+msgstr "操作"
+
+#: View\Agencies\add.ctp:6
+#: View\Grants\add.ctp:7
+msgid "List Agencies"
+msgstr ""
+
+#: View\Agencies\add.ctp:7
+#: View\Grants\add.ctp:6
+msgid "List Grants"
+msgstr ""
+
+#: View\Agencies\add.ctp:8
+msgid "New Grant"
+msgstr ""
+
+#: View\Agencies\add.ctp:14
+#: View\Agencies\index.ctp:28;34
+msgid "Add Agency"
+msgstr "添加机构"
+
+#: View\Agencies\add.ctp:20
+#: View\Answers\add.ctp:19
+#: View\Answers\edit.ctp:21
+#: View\Attributes\add.ctp:21
+#: View\EntityAttributeValues\add.ctp:22
+#: View\EntityAttributeValues\edit.ctp:24
+#: View\Grants\add.ctp:28
+#: View\Participants\add.ctp:19
+#: View\Participants\edit.ctp:21
+#: View\Privileges\add.ctp:25
+#: View\Questions\edit.ctp:21
+#: View\Responses\add.ctp:32
+#: View\Responses\edit.ctp:16
+#: View\Roles\add.ctp:20
+#: View\Stimuli\add.ctp:20
+#: View\Stimuli\edit.ctp:22
+#: View\Users\edit.ctp:22
+msgid "Submit"
+msgstr "提交"
+
+#: View\Agencies\add.ctp:21
+#: View\Answers\add.ctp:20
+#: View\Answers\edit.ctp:22
+#: View\Attributes\add.ctp:22
+#: View\EntityAttributeValues\add.ctp:23
+#: View\EntityAttributeValues\edit.ctp:25
+#: View\Grants\add.ctp:29
+#: View\Participants\add.ctp:20
+#: View\Participants\edit.ctp:22
+#: View\Privileges\add.ctp:26
+#: View\Privileges\edit.ctp:13
+#: View\Questions\edit.ctp:22
+#: View\Responses\add.ctp:33
+#: View\Roles\add.ctp:21
+#: View\Stimuli\add.ctp:21
+#: View\Stimuli\edit.ctp:23
+#: View\Uploads\index.ctp:226
+#: View\Users\edit.ctp:23
+msgid "Cancel"
+msgstr "取消"
+
+#: View\Agencies\edit.ctp:3
+msgid "Edit Agency"
+msgstr "编辑机构"
+
+#: View\Agencies\index.ctp:17
+#: View\Answers\index.ctp:28
+#: View\Attributes\index.ctp:35
+#: View\Attributes\view.ctp:52
+#: View\EntityAttributeValues\index.ctp:34
+#: View\Grants\index.ctp:46
+#: View\Participants\view.ctp:44
+#: View\Privileges\grant_or_revoke.ctp:40
+#: View\Privileges\index.ctp:40
+#: View\Projects\index.ctp:98
+#: View\Roles\view.ctp:70
+#: View\Stimuli\view.ctp:47
+#: View\Users\index.ctp:34
+#: View\Users\view.ctp:58
+msgid "View"
+msgstr "查看"
+
+#: View\Agencies\index.ctp:18
+#: View\Answers\index.ctp:29
+#: View\Attributes\index.ctp:36
+#: View\Attributes\view.ctp:53
+#: View\EntityAttributeValues\index.ctp:35
+#: View\Experiments\edit.ctp:84
+#: View\Experiments\index.ctp:99
+#: View\Grants\index.ctp:49
+#: View\Participants\view.ctp:45
+#: View\Privileges\grant_or_revoke.ctp:41
+#: View\Privileges\index.ctp:41
+#: View\Projects\index.ctp:93
+#: View\Responses\index.ctp:63
+#: View\Roles\view.ctp:71
+#: View\Stimuli\view.ctp:48
+#: View\Users\view.ctp:59
+msgid "Edit"
+msgstr "编辑"
+
+#: View\Agencies\index.ctp:19
+#: View\Answers\edit.ctp:6
+#: View\Answers\index.ctp:30
+#: View\Attributes\index.ctp:37
+#: View\Attributes\view.ctp:56
+#: View\EntityAttributeValues\edit.ctp:6
+#: View\EntityAttributeValues\index.ctp:36
+#: View\Experiments\edit.ctp:85
+#: View\Grants\index.ctp:50
+#: View\Participants\edit.ctp:6
+#: View\Participants\view.ctp:48
+#: View\Privileges\grant_or_revoke.ctp:42
+#: View\Privileges\index.ctp:42
+#: View\Questions\edit.ctp:6
+#: View\Responses\index.ctp:64
+#: View\Roles\view.ctp:74
+#: View\Stimuli\edit.ctp:6
+#: View\Stimuli\view.ctp:51
+#: View\Uploads\index.ctp:255
+#: View\Users\view.ctp:62
+msgid "Delete"
+msgstr "删除"
+
+#: View\Agencies\index.ctp:19
+#: View\Answers\edit.ctp:6
+#: View\Answers\index.ctp:30
+#: View\Answers\view.ctp:6
+#: View\Attributes\index.ctp:37
+#: View\Attributes\view.ctp:56
+#: View\EntityAttributeValues\edit.ctp:6
+#: View\EntityAttributeValues\index.ctp:36
+#: View\EntityAttributeValues\view.ctp:6
+#: View\Experiments\edit.ctp:85
+#: View\Grants\index.ctp:50
+#: View\Participants\edit.ctp:6
+#: View\Participants\view.ctp:48
+#: View\Privileges\grant_or_revoke.ctp:42
+#: View\Privileges\index.ctp:42
+#: View\Privileges\view.ctp:6
+#: View\Questions\edit.ctp:6
+#: View\Questions\view.ctp:6
+#: View\Responses\index.ctp:64
+#: View\Responses\view.ctp:6
+#: View\Roles\view.ctp:6;74
+#: View\Stimuli\edit.ctp:6
+#: View\Stimuli\view.ctp:51
+#: View\Users\view.ctp:62
+msgid "Are you sure you want to delete # %s?"
+msgstr "你确定你想删除 # %s？"
+
+#: View\Agencies\index.ctp:48
+#: View\Attributes\index.ctp:89
+#: View\Experiments\edit.ctp:159
+#: View\Experiments\index.ctp:133
+#: View\Grants\index.ctp:109
+#: View\Projects\index.ctp:126
+msgid "Close"
+msgstr "关闭"
+
+#: View\Agencies\index.ctp:49
+#: View\Attributes\index.ctp:90
+#: View\Experiments\edit.ctp:160
+#: View\Experiments\index.ctp:134
+#: View\Grants\index.ctp:110
+#: View\Projects\index.ctp:127
+msgid "Add"
+msgstr "添加"
+
+#: View\Agencies\view.ctp:25
+#: View\Answers\view.ctp:14
+#: View\Attributes\view.ctp:4;33
+#: View\EntityAttributeValues\view.ctp:16
+#: View\Grants\view.ctp:33
+#: View\Participants\view.ctp:4
+#: View\Privileges\view.ctp:20
+#: View\Questions\view.ctp:14
+#: View\Responses\view.ctp:22
+#: View\Roles\view.ctp:16;43
+#: View\Stimuli\view.ctp:4;28
+#: View\Users\view.ctp:43
+msgid "Id"
+msgstr ""
+
+#: View\Agencies\view.ctp:26
+#: View\Attributes\view.ctp:9
+#: View\Experiments\index.ctp:74
+#: View\Grants\view.ctp:34
+#: View\Projects\index.ctp:58
+#: View\Roles\view.ctp:21;44
+#: View\Stimuli\view.ctp:9
+msgid "Name"
+msgstr "名字"
+
+#: View\Agencies\view.ctp:27
+#: View\Attributes\view.ctp:19
+#: View\Experiments\index.ctp:75
+#: View\Grants\view.ctp:35
+#: View\Projects\index.ctp:59
+#: View\Roles\view.ctp:26;51
+#: View\Stimuli\view.ctp:14
+msgid "Description"
+msgstr "描述"
+
+#: View\Agencies\view.ctp:28
+#: View\Experiments\index.ctp:76
+#: View\Grants\view.ctp:36
+#: View\Projects\index.ctp:61
+#: View\Responses\view.ctp:47
+msgid "Start Time"
+msgstr "开始时间"
+
+#: View\Agencies\view.ctp:29
+#: View\Experiments\index.ctp:77
+#: View\Grants\view.ctp:37
+#: View\Projects\index.ctp:62
+#: View\Responses\view.ctp:52
+msgid "End Time"
+msgstr "结束时间"
+
+#: View\Answers\add.ctp:6
+#: View\Answers\edit.ctp:7
+#: View\Answers\view.ctp:7
+msgid "List Answers"
+msgstr ""
+
+#: View\Answers\add.ctp:12
+msgid "Add Answer"
+msgstr ""
+
+#: View\Answers\edit.ctp:13
+#: View\Answers\view.ctp:5
+msgid "Edit Answer"
+msgstr ""
+
+#: View\Answers\index.ctp:5
+#: View\Answers\view.ctp:8
+msgid "New Answer"
+msgstr ""
+
+#: View\Answers\index.ctp:9
+msgid "Answers"
+msgstr ""
+
+#: View\Answers\index.ctp:40
+#: View\Attributes\index.ctp:48
+#: View\EntityAttributeValues\index.ctp:46
+#: View\Grants\index.ctp:64
+#: View\Participants\index.ctp:62
+#: View\Privileges\grant_or_revoke.ctp:52
+#: View\Privileges\index.ctp:52
+#: View\Responses\index.ctp:76
+#: View\Users\index.ctp:58
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "页 {:page} / {:pages}, 显示 {:current} 记录， 记录总数{:count} , 起始记录 {:start}, 记录结束 {:end}"
+
+#: View\Answers\index.ctp:46
+#: View\Attributes\index.ctp:55
+#: View\EntityAttributeValues\index.ctp:52
+#: View\Grants\index.ctp:71
+#: View\Participants\index.ctp:68
+#: View\Privileges\grant_or_revoke.ctp:58
+#: View\Privileges\index.ctp:58
+#: View\Responses\index.ctp:83
+#: View\Users\index.ctp:65
+msgid "previous"
+msgstr "前一页"
+
+#: View\Answers\index.ctp:48
+#: View\Attributes\index.ctp:57
+#: View\EntityAttributeValues\index.ctp:54
+#: View\Grants\index.ctp:73
+#: View\Participants\index.ctp:70
+#: View\Privileges\grant_or_revoke.ctp:60
+#: View\Privileges\index.ctp:60
+#: View\Responses\index.ctp:85
+#: View\Users\index.ctp:67
+msgid "next"
+msgstr "下一页"
+
+#: View\Answers\view.ctp:6
+msgid "Delete Answer"
+msgstr ""
+
+#: View\Answers\view.ctp:12;24
+msgid "Answer"
+msgstr ""
+
+#: View\Answers\view.ctp:19
+msgid "Question Id"
+msgstr ""
+
+#: View\Answers\view.ctp:29
+#: View\Grants\view.ctp:38
+#: View\Users\view.ctp:44
+msgid "User Id"
+msgstr "用户ID"
+
+#: View\Attributes\add.ctp:6
+#: View\EntityAttributeValues\add.ctp:7
+#: View\EntityAttributeValues\edit.ctp:8
+#: View\EntityAttributeValues\index.ctp:6
+#: View\EntityAttributeValues\view.ctp:9
+msgid "List Attributes"
+msgstr "属性列表"
+
+#: View\Attributes\add.ctp:7
+#: View\EntityAttributeValues\add.ctp:6
+#: View\EntityAttributeValues\edit.ctp:7
+#: View\EntityAttributeValues\view.ctp:7
+msgid "List Entity Attribute Values"
+msgstr "实体属性值列表"
+
+#: View\Attributes\add.ctp:8
+#: View\Attributes\view.ctp:29
+#: View\EntityAttributeValues\index.ctp:5
+#: View\EntityAttributeValues\view.ctp:8
+msgid "New Entity Attribute Value"
+msgstr ""
+
+#: View\Attributes\add.ctp:14
+#: View\Attributes\index.ctp:74
+msgid "Add Attribute"
+msgstr "添加属性"
+
+#: View\Attributes\edit.ctp:4
+msgid "Edit Attribute"
+msgstr "编辑属性"
+
+#: View\Attributes\edit.ctp:13
+#: View\Experiments\edit.ctp:122
+#: View\Grants\edit.ctp:14
+#: View\Privileges\edit.ctp:12
+msgid "Save"
+msgstr "保存"
+
+#: View\Attributes\index.ctp:1
+#: View\Layouts\default.ctp:131
+msgid "Attributes"
+msgstr "属性中心"
+
+#: View\Attributes\index.ctp:67
+#: View\EntityAttributeValues\add.ctp:8
+#: View\EntityAttributeValues\edit.ctp:9
+#: View\EntityAttributeValues\index.ctp:7
+#: View\EntityAttributeValues\view.ctp:10
+msgid "New Attribute"
+msgstr "新建属性"
+
+#: View\Attributes\view.ctp:14
+msgid "Type"
+msgstr "类型"
+
+#: View\Attributes\view.ctp:27
+msgid "Related Entity Attribute Values"
+msgstr "相关实体属性值"
+
+#: View\Attributes\view.ctp:34
+#: View\EntityAttributeValues\view.ctp:21
+msgid "Entity Id"
+msgstr "实体ID"
+
+#: View\Attributes\view.ctp:35
+msgid "Attribute Id"
+msgstr "属性ID"
+
+#: View\Attributes\view.ctp:36
+#: View\EntityAttributeValues\view.ctp:31
+msgid "Value"
+msgstr "值"
+
+#: View\Attributes\view.ctp:37
+#: View\EntityAttributeValues\view.ctp:36
+msgid "Entity Type"
+msgstr "实体类型"
+
+#: View\Elements\projexp.ctp:10
+#: View\Privileges\view.ctp:30
+msgid "Project"
+msgstr "项目"
+
+#: View\Elements\projexp.ctp:18
+#: View\Privileges\view.ctp:35
+#: View\Responses\view.ctp:37
+msgid "Experiment"
+msgstr "实验"
+
+#: View\EntityAttributeValues\add.ctp:14
+msgid "Add Entity Attribute Value"
+msgstr ""
+
+#: View\EntityAttributeValues\edit.ctp:15
+#: View\EntityAttributeValues\view.ctp:5
+msgid "Edit Entity Attribute Value"
+msgstr ""
+
+#: View\EntityAttributeValues\index.ctp:11
+msgid "Entity Attribute Values"
+msgstr ""
+
+#: View\EntityAttributeValues\view.ctp:6
+msgid "Delete Entity Attribute Value"
+msgstr ""
+
+#: View\EntityAttributeValues\view.ctp:14
+msgid "Entity Attribute Value"
+msgstr ""
+
+#: View\EntityAttributeValues\view.ctp:26
+msgid "Attribute"
+msgstr ""
+
+#: View\Experiments\edit.ctp:40
+msgid "Edit Experiment"
+msgstr "编辑实验"
+
+#: View\Experiments\edit.ctp:65
+#: View\Experiments\index.ctp:66
+#: View\Projects\index.ctp:48
+msgid "New"
+msgstr "新建"
+
+#: View\Experiments\index.ctp:55
+#: View\Uploads\index.ctp:27
+msgid "No Project Selected!"
+msgstr "没有选择项目！"
+
+#: View\Experiments\index.ctp:56
+#: View\Uploads\index.ctp:28
+msgid "Please select a project which you would like working on by clicking Projects menu on the left."
+msgstr "请点击左边项目菜单，选择一你的工作项目。"
+
+#: View\Experiments\index.ctp:62
+msgid "My Experiments"
+msgstr "我的实验"
+
+#: View\Experiments\index.ctp:104
+msgid "View Data"
+msgstr "查看数据"
+
+#: View\Experiments\index.ctp:109
+#: View\Layouts\default.ctp:135
+#: View\Uploads\index.ctp:130
+msgid "Upload Data"
+msgstr "上传数据"
+
+#: View\Experiments\index.ctp:119
+msgid "Add Experiment"
+msgstr "添加实验"
+
+#: View\Grants\add.ctp:8
+msgid "New Agency"
+msgstr "新建机构"
+
+#: View\Grants\add.ctp:9
+#: View\Privileges\add.ctp:7
+#: View\Privileges\grant_or_revoke.ctp:6
+#: View\Privileges\index.ctp:6
+#: View\Privileges\view.ctp:9
+#: View\Roles\add.ctp:7
+#: View\Roles\view.ctp:9
+msgid "List Users"
+msgstr "用户列表"
+
+#: View\Grants\add.ctp:10
+#: View\Privileges\add.ctp:8
+#: View\Privileges\grant_or_revoke.ctp:7
+#: View\Privileges\index.ctp:7
+#: View\Privileges\view.ctp:10
+#: View\Roles\add.ctp:8
+#: View\Roles\view.ctp:10;39
+msgid "New User"
+msgstr "新建用户"
+
+#: View\Grants\add.ctp:11
+#: View\Privileges\add.ctp:9
+#: View\Privileges\grant_or_revoke.ctp:8
+#: View\Privileges\index.ctp:8
+#: View\Privileges\view.ctp:11
+msgid "List Projects"
+msgstr "项目列表"
+
+#: View\Grants\add.ctp:12
+#: View\Privileges\add.ctp:10
+#: View\Privileges\grant_or_revoke.ctp:9
+#: View\Privileges\index.ctp:9
+#: View\Privileges\view.ctp:12
+msgid "New Project"
+msgstr "新建项目"
+
+#: View\Grants\add.ctp:18
+#: View\Grants\index.ctp:83;91
+msgid "Add Grant"
+msgstr "添加经费"
+
+#: View\Grants\edit.ctp:3
+msgid "Edit Grant"
+msgstr "编辑经费"
+
+#: View\Layouts\Copy of default.ctp:6
+#: View\Layouts\error.ctp:24
+#: View\Layouts\plain.ctp:6
+msgid "Unified Data System:"
+msgstr "统一数据系统："
+
+#: View\Layouts\Copy of default.ctp:42;131
+#: View\Layouts\default - Copy.ctp:179
+#: View\Layouts\default.ctp:46;191
+#: View\Layouts\error.ctp:40;50
+#: View\Layouts\frame.ctp:46;107
+msgid "Unified Data System"
+msgstr "统一数据系统"
+
+#: View\Layouts\default.ctp:52
+#: View\Layouts\frame.ctp:52
+msgid "Language:"
+msgstr "语言："
+
+#: View\Layouts\default.ctp:95
+msgid "Profile"
+msgstr "用户信息"
+
+#: View\Layouts\default.ctp:99
+msgid "Logout"
+msgstr "退出"
+
+#: View\Layouts\default.ctp:125;126
+msgid "Projects"
+msgstr "我的项目"
+
+#: View\Layouts\default.ctp:127
+msgid "Grants"
+msgstr "项目经费"
+
+#: View\Layouts\default.ctp:128
+msgid "Funding Agencies"
+msgstr "资助机构"
+
+#: View\Layouts\default.ctp:129
+msgid "Experiment"
+msgstr "实验"
+
+#: View\Layouts\default.ctp:130
+msgid "Experiments"
+msgstr "我的实验"
+
+#: View\Layouts\default.ctp:132
+#: View\Responses\index.ctp:14
+msgid "Participants"
+msgstr "参与者数据"
+
+#: View\Layouts\default.ctp:133
+#: View\Responses\view.ctp:32
+#: View\Stimuli\index.ctp:145
+#: View\Stimuli\view.ctp:2
+msgid "Stimulus"
+msgstr "刺激数据"
+
+#: View\Layouts\default.ctp:134
+#: View\Responses\index.ctp:16
+msgid "Responses"
+msgstr "反应数据"
+
+#: View\Layouts\default.ctp:138
+msgid "Admin"
+msgstr "管理"
+
+#: View\Layouts\default.ctp:144
+msgid "Feedback"
+msgstr "反馈"
+
+#: View\Layouts\default.ctp:146
+msgid "Take Survey"
+msgstr "参加调查"
+
+#: View\Layouts\default.ctp:148
+msgid "Survey Results"
+msgstr "调查结果"
+
+#: View\Layouts\default.ctp:160
+msgid "Home"
+msgstr "主页"
+
+#: View\Layouts\default.ctp:184
+#: View\Layouts\frame.ctp:100
+msgid "About Me"
+msgstr "关于我"
+
+#: View\Layouts\default.ctp:185
+#: View\Layouts\frame.ctp:101
+msgid "Contact"
+msgstr "联系"
+
+#: View\Layouts\default.ctp:186
+#: View\Layouts\frame.ctp:102
+msgid "API"
+msgstr "应用编程接口"
+
+#: View\Layouts\default.ctp:187
+#: View\Layouts\frame.ctp:103
+msgid "Help"
+msgstr "帮助"
+
+#: View\Layouts\default.ctp:188
+#: View\Layouts\frame.ctp:104
+msgid "Terms & Privacy"
+msgstr "条款 & 隐私"
+
+#: View\Participants\add.ctp:6
+#: View\Participants\edit.ctp:7
+#: View\Responses\add.ctp:7
+#: View\Responses\view.ctp:9
+msgid "List Participants"
+msgstr "参与者列表"
+
+#: View\Participants\add.ctp:7
+#: View\Participants\edit.ctp:8
+#: View\Responses\add.ctp:6
+#: View\Responses\view.ctp:7
+#: View\Stimuli\add.ctp:7
+#: View\Stimuli\edit.ctp:8
+msgid "List Responses"
+msgstr ""
+
+#: View\Participants\add.ctp:8
+#: View\Participants\edit.ctp:9
+#: View\Participants\view.ctp:21
+#: View\Responses\view.ctp:8
+#: View\Stimuli\add.ctp:8
+#: View\Stimuli\edit.ctp:9
+#: View\Stimuli\view.ctp:24
+msgid "New Response"
+msgstr ""
+
+#: View\Participants\add.ctp:14
+msgid "Add Participant"
+msgstr ""
+
+#: View\Participants\edit.ctp:15
+msgid "Edit Participant"
+msgstr ""
+
+#: View\Participants\index.ctp:28
+#: View\Responses\index.ctp:24
+msgid "Search"
+msgstr "查询"
+
+#: View\Participants\index.ctp:34
+#: View\Participants\view.ctp:2
+#: View\Responses\view.ctp:27
+msgid "Participant"
+msgstr "参与者"
+
+#: View\Participants\view.ctp:9
+msgid "Uid"
+msgstr ""
+
+#: View\Participants\view.ctp:19
+#: View\Stimuli\view.ctp:22
+msgid "Related Responses"
+msgstr ""
+
+#: View\Participants\view.ctp:25
+msgid "Date"
+msgstr "日期"
+
+#: View\Participants\view.ctp:26
+#: View\Stimuli\view.ctp:29
+msgid "Participant Id"
+msgstr "参与者ID"
+
+#: View\Participants\view.ctp:27
+#: View\Stimuli\view.ctp:30
+msgid "Stimulus Id"
+msgstr "刺激ID"
+
+#: View\Participants\view.ctp:28
+#: View\Stimuli\view.ctp:31
+#: View\Users\view.ctp:46
+msgid "Experiment Id"
+msgstr "实验ID"
+
+#: View\Participants\view.ctp:29
+#: View\Responses\view.ctp:62
+#: View\Stimuli\view.ctp:32
+#: View\Uploads\index.ctp:102
+msgid "Response Value"
+msgstr "反应值"
+
+#: View\Privileges\add.ctp:6
+#: View\Privileges\view.ctp:7
+msgid "List Privileges"
+msgstr "权限列表"
+
+#: View\Privileges\add.ctp:11
+#: View\Privileges\grant_or_revoke.ctp:10
+#: View\Privileges\index.ctp:10
+#: View\Privileges\view.ctp:13
+#: View\Responses\add.ctp:11
+#: View\Responses\view.ctp:13
+msgid "List Experiments"
+msgstr "实验列表"
+
+#: View\Privileges\add.ctp:12
+#: View\Privileges\grant_or_revoke.ctp:11
+#: View\Privileges\index.ctp:11
+#: View\Privileges\view.ctp:14
+#: View\Responses\add.ctp:12
+#: View\Responses\view.ctp:14
+msgid "New Experiment"
+msgstr "新建实验"
+
+#: View\Privileges\add.ctp:18
+msgid "Add Privilege"
+msgstr ""
+
+#: View\Privileges\edit.ctp:4
+#: View\Privileges\view.ctp:5
+msgid "Edit Privilege"
+msgstr "编辑权限"
+
+#: View\Privileges\grant_or_revoke.ctp:5
+#: View\Privileges\index.ctp:5
+#: View\Privileges\view.ctp:8
+msgid "New Privilege"
+msgstr "新建权限"
+
+#: View\Privileges\grant_or_revoke.ctp:15
+#: View\Privileges\index.ctp:15
+msgid "Privileges"
+msgstr "权限"
+
+#: View\Privileges\view.ctp:6
+msgid "Delete Privilege"
+msgstr "删除权限"
+
+#: View\Privileges\view.ctp:18
+msgid "Privilege"
+msgstr "权限"
+
+#: View\Privileges\view.ctp:25
+msgid "User"
+msgstr "用户"
+
+#: View\Projects\index.ctp:60
+msgid "Grant"
+msgstr "项目经费"
+
+#: View\Projects\index.ctp:63
+msgid "PI"
+msgstr "首席研究员"
+
+#: View\Projects\index.ctp:103
+msgid "View Experiments"
+msgstr "查看实验"
+
+#: View\Projects\index.ctp:111
+msgid "Add Project"
+msgstr "添加项目"
+
+#: View\Questions\edit.ctp:7
+#: View\Questions\view.ctp:7
+msgid "List Questions"
+msgstr ""
+
+#: View\Questions\edit.ctp:13
+#: View\Questions\view.ctp:5
+msgid "Edit Question"
+msgstr ""
+
+#: View\Questions\view.ctp:6
+msgid "Delete Question"
+msgstr ""
+
+#: View\Questions\view.ctp:8
+msgid "New Question"
+msgstr ""
+
+#: View\Questions\view.ctp:12;29
+msgid "Question"
+msgstr ""
+
+#: View\Questions\view.ctp:19
+msgid "Qid"
+msgstr ""
+
+#: View\Questions\view.ctp:24
+msgid "Version"
+msgstr ""
+
+#: View\Questions\view.ctp:34
+msgid "Created"
+msgstr ""
+
+#: View\Responses\add.ctp:8
+#: View\Responses\view.ctp:10
+msgid "New Participant"
+msgstr ""
+
+#: View\Responses\add.ctp:9
+#: View\Responses\view.ctp:11
+#: View\Stimuli\add.ctp:6
+#: View\Stimuli\edit.ctp:7
+msgid "List Stimuli"
+msgstr ""
+
+#: View\Responses\add.ctp:10
+#: View\Responses\view.ctp:12
+msgid "New Stimulus"
+msgstr ""
+
+#: View\Responses\add.ctp:13
+#: View\Responses\view.ctp:15
+msgid "List Stimulus Conditions"
+msgstr ""
+
+#: View\Responses\add.ctp:14
+#: View\Responses\view.ctp:16
+msgid "New Stimulus Condition"
+msgstr ""
+
+#: View\Responses\add.ctp:20
+msgid "Add Response"
+msgstr ""
+
+#: View\Responses\edit.ctp:3
+#: View\Responses\view.ctp:5
+msgid "Edit Response"
+msgstr ""
+
+#: View\Responses\index.ctp:7
+#: View\Uploads\index.ctp:89
+msgid "No Experiment Selected!"
+msgstr "没有选择实验"
+
+#: View\Responses\index.ctp:8
+msgid "Please select an experiment which you would like working on by clicking Experiments menu on the left."
+msgstr "请点击左边实验菜单，选择你的实验。"
+
+#: View\Responses\index.ctp:14
+msgid "Summary"
+msgstr "总结"
+
+#: View\Responses\index.ctp:15
+#: View\Stimuli\index.ctp:139
+msgid "Stimuli"
+msgstr "刺激"
+
+#: View\Responses\index.ctp:93
+msgid "Export"
+msgstr "导出数据"
+
+#: View\Responses\index.ctp:94
+msgid "Visualize Data"
+msgstr "可视化数据"
+
+#: View\Responses\index.ctp:112;120
+msgid "No Data Found!"
+msgstr "没有找到数据！"
+
+#: View\Responses\index.ctp:113;121
+msgid "There are no data associate with this experiment."
+msgstr "这个实验没有相关数据"
+
+#: View\Responses\view.ctp:6
+msgid "Delete Response"
+msgstr "删除反应"
+
+#: View\Responses\view.ctp:20
+msgid "Response"
+msgstr "反应"
+
+#: View\Responses\view.ctp:42
+msgid "Stimulus Condition"
+msgstr ""
+
+#: View\Responses\view.ctp:57
+msgid "Misc Note"
+msgstr ""
+
+#: View\Roles\add.ctp:6
+#: View\Roles\view.ctp:7
+msgid "List Roles"
+msgstr ""
+
+#: View\Roles\add.ctp:14
+msgid "Add Role"
+msgstr "添加角色"
+
+#: View\Roles\edit.ctp:3
+#: View\Roles\view.ctp:5
+msgid "Edit Role"
+msgstr ""
+
+#: View\Roles\view.ctp:6
+msgid "Delete Role"
+msgstr ""
+
+#: View\Roles\view.ctp:8
+msgid "New Role"
+msgstr "新建角色"
+
+#: View\Roles\view.ctp:14
+msgid "Role"
+msgstr "角色"
+
+#: View\Roles\view.ctp:37
+msgid "Related Users"
+msgstr "相关用户"
+
+#: View\Roles\view.ctp:45
+#: View\Users\reset_password.ctp:21
+msgid "Last Name"
+msgstr "姓氏"
+
+#: View\Roles\view.ctp:46
+msgid "First Name"
+msgstr "名"
+
+#: View\Roles\view.ctp:47
+msgid "Role Id"
+msgstr "角色ID"
+
+#: View\Roles\view.ctp:48
+msgid "Email"
+msgstr "邮件地址"
+
+#: View\Roles\view.ctp:49
+msgid "Username"
+msgstr "用户名"
+
+#: View\Roles\view.ctp:50
+msgid "Password"
+msgstr "密码"
+
+#: View\Stimuli\add.ctp:14
+msgid "Add Stimulus"
+msgstr ""
+
+#: View\Stimuli\edit.ctp:15
+msgid "Edit Stimulus"
+msgstr ""
+
+#: View\Uploads\index.ctp:39
+msgid "Add files..."
+msgstr "添加文件..."
+
+#: View\Uploads\index.ctp:73
+msgid "Available Columns"
+msgstr "可用列"
+
+#: View\Uploads\index.ctp:78
+msgid "Participant ID"
+msgstr "参与者ID"
+
+#: View\Uploads\index.ctp:80
+msgid "Participant Attributes"
+msgstr "参与者属性"
+
+#: View\Uploads\index.ctp:90
+msgid "Please select a experiment before uploading data for stimuli and responses of the experiment by clicking Experiments menu on the left."
+msgstr "在上传刺激反应数据之前，请点击左边菜单的实验，为您的数据选择使用一个实验。"
+
+
+#: View\Uploads\index.ctp:95
+msgid "Stimulus Name"
+msgstr "刺激名"
+
+#: View\Uploads\index.ctp:97
+msgid "Stimulus Attributes"
+msgstr "刺激属性"
+
+#: View\Uploads\index.ctp:104
+msgid "Response Attributes"
+msgstr "反应属性"
+
+#: View\Uploads\index.ctp:209
+msgid "Error"
+msgstr "错误"
+
+#: View\Uploads\index.ctp:217
+msgid "Start"
+msgstr "开始"
+
+#: View\Users\login.ctp:29
+#: View\Users\reset_password.ctp:14
+msgid "email"
+msgstr "邮件地址"
+
+#: View\Users\login.ctp:36
+msgid "password"
+msgstr "密码"
+
+#: View\Users\login.ctp:39
+msgid "Forgot password"
+msgstr "忘记密码"
+
+#: View\Users\login.ctp:42
+msgid "Login"
+msgstr "登录"
+
+#: View\Users\login.ctp:43
+msgid "Register"
+msgstr "注册"
+
+#: View\Users\reset_password.ctp:25
+msgid "Go Back"
+msgstr "返回"
+
+#: View\Users\reset_password.ctp:26
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: View\Users\view.ctp:39
+msgid "Privilege Control List"
+msgstr "权限控制列表"
+
+#: View\Users\view.ctp:45
+msgid "Project Id"
+msgstr "项目标识"
+
+#: Model\Agency.php:validation for field name
+#: Model\Attribute.php:validation for field name;validation for field type
+#: Model\Grant.php:validation for field name
+#: Model\Participant.php:validation for field uid
+#: Model\Project.php:validation for field name
+#: Model\Role.php:validation for field name
+#: Model\Stimulus.php:validation for field name
+#: Model\Upload.php:validation for field name
+msgid "notempty"
+msgstr "非空"
+
+#: Model\Experiment.php:validation for field project_id
+#: Model\Grant.php:validation for field agency_id;validation for field user_id
+#: Model\Privilege.php:validation for field user_id;validation for field project_id;validation for field experiment_id
+#: Model\Project.php:validation for field user_id;validation for field grant_id
+#: Model\Response.php:validation for field participant_id;validation for field experiment_id
+#: Model\Upload.php:validation for field size;validation for field status
+msgid "numeric"
+msgstr "数字"
+
+#: Model\Privilege.php:validation for field role_id
+msgid "Role is required"
+msgstr "角色是必须的"
+
